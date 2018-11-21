@@ -4,6 +4,6 @@ public class LoginPage {
 public void  LoginPage()
 {
 	System.out.println("login page");
-	
+System.out.println("git updated");	
 }
 }
